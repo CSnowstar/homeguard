@@ -13,9 +13,9 @@
 
 #define HOST_1 "192.168.1.254"
 #define PATH_1 "/"
-#define HOST_2 "www.snowstarcyan.com"
+#define HOST_2 "www.snomiao.com"
 #define PATH_2 "/homeguard"
-#define HOST_3 "homeguard.snowstarcyan.com"
+#define HOST_3 "homeguard.snomiao.com"
 #define PATH_3 "/"
 
 SoftwareSerial mySerial(3, 2); /* RX:D3, TX:D2 */
