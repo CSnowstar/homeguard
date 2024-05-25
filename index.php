@@ -26,7 +26,7 @@ switch($action){
         break;
     case "post":
         $key = isset($_REQUEST["key"]) ? $_REQUEST["key"]: "";
-        if(!($key === "L6fQt3z7LhCwIBWMBFIB5TTR5znL1VTq")){
+        if(!($key === "GHiL5qUWDvoZNb1TeS7MwUY7Fbg4BYYu")){
             forbidden_password_needed();
             exit;
         };
